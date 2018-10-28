@@ -2,7 +2,7 @@
 
 Projeto de backend para o PetCodes, desenvolvimento das habilidades de programação através de uma plataforma para Busca, Doação, e Adoção de Pets.
 
-**Projetos Relacionados
+**Projetos Relacionados**
 
 [BatataComBacon - Backend](https://github.com/academiadev-jlle/backend-batatacombacon)
 
