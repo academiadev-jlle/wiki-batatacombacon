@@ -89,7 +89,7 @@ TODO
 
 ## Licença
 
-Este projeto usa a licença Apache 2.0 - veja [LICENSE](LICENSE) para detalhes
+Este projeto usa a licença Apache 2.0 - veja [LICENSE](LICENSE.md) para detalhes
 
 ## Reconhecimentos
 
