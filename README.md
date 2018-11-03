@@ -2,6 +2,12 @@
 
 Projeto de backend para o PetCodes, desenvolvimento das habilidades de programação através de uma plataforma para Busca, Doação, e Adoção de Pets.
 
+**Projetos Relacionados**
+
+[BatataComBacon - Backend](https://github.com/academiadev-jlle/backend-batatacombacon)
+
+[BatataComBacon - Frontend](https://github.com/academiadev-jlle/frontend-batatacombacon)
+
 ## Como começar
 
 Instruções para clonar e rodar o projeto em sua máquina para propósito de desenvolvimento e testes.
@@ -83,7 +89,7 @@ TODO
 
 ## Licença
 
-Este projeto usa a licença Apache 2.0 - veja [LICENSE](LICENSE) para detalhes
+Este projeto usa a licença Apache 2.0 - veja [LICENSE](LICENSE.md) para detalhes
 
 ## Reconhecimentos
 
