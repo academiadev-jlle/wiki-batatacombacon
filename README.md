@@ -103,6 +103,3 @@ Este projeto usa a licença Apache 2.0 - veja [LICENSE](LICENSE) para detalhes
 * Becomex
 * Asaas
 * Treasy
-
-
-> Written with [StackEdit](https://stackedit.io/).
