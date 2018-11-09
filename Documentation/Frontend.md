@@ -1,6 +1,6 @@
 # PetCodes - Frontend - BatataComBacon
 
-Projeto de frontend para o PetCodes tem o intuito de desenvolver as habilidades de programação através de um projeto de aplicação para WEB para Busca, Doação, e Adoção de Pets.
+Projeto para o PetCodes da Academia Dev de Joinville 2018 com o objetivo de desenvolver as habilidades de programação através de um projeto de WebApp para Busca, Doação, e Adoção de Pets.
 
 **Repositório**
 
