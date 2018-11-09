@@ -13,18 +13,16 @@ Instruções para clonar e rodar o projeto em sua máquina para propósito de de
 
 [//]: # ( These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.)
 
-**TODO**
-
 ### Pré-requisitos
 
 Softwares que são pré-requisito para a utlização do projeto.
 
 [//]: # (What things you need to install the software and how to install them)
 
--Git
--[Node](https://github.com/nodejs/node): 8.12.0 ou acima
--[Angular CLI](https://github.com/angular/angular-cli): 6.1.4
--Clone do [FrontendBatataComBacon repo](https://github.com/academiadev-jlle/frontend-batatacombacon) na máquina local 
+- Git
+- [Node](https://github.com/nodejs/node): 8.12.0 ou acima
+- [Angular CLI](https://github.com/angular/angular-cli): 6.1.4
+- Clone do [FrontendBatataComBacon repo](https://github.com/academiadev-jlle/frontend-batatacombacon) na máquina local 
 
 ### Instalando
 
