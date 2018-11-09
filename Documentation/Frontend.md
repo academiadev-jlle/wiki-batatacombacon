@@ -1,12 +1,11 @@
-# PetCodes - Wiki - BatataComBacon
+# PetCodes - Frontend - BatataComBacon
 
-Projeto de backend para o PetCodes, desenvolvimento das habilidades de programação através de uma plataforma para Busca, Doação, e Adoção de Pets.
+Projeto de frontend para o PetCodes tem o intuito de desenvolver as habilidades de programação através de um projeto de aplicação para WEB para Busca, Doação, e Adoção de Pets.
 
-**Projetos Relacionados**
+**Repositório**
 
-[BatataComBacon - Backend](https://github.com/academiadev-jlle/backend-batatacombacon)
+O repositório contendo o código fonte do [FrontendBatataComBacon](https://frontendcombacon.herokuapp.com) está no [BatataComBacon - Frontend](https://github.com/academiadev-jlle/frontend-batatacombacon). O site foi construído no Heroku.
 
-[BatataComBacon - Frontend](https://github.com/academiadev-jlle/frontend-batatacombacon)
 
 ## Como começar
 
@@ -23,7 +22,10 @@ Softwares que são pré-requisito para a utlização do projeto.
 [//]: # (What things you need to install the software and how to install them)
 
 ```
-TODO
+Git
+[Node](https://github.com/nodejs/node): 8.12.0 ou acima
+[Angular CLI](https://github.com/angular/angular-cli): 6.1.4
+Clone do [FrontendBatataComBacon repo](https://github.com/academiadev-jlle/frontend-batatacombacon) na máquina local 
 ```
 
 ### Instalando
