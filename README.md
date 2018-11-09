@@ -1,6 +1,6 @@
 # PetCodes - Wiki - BatataComBacon
 
-Projeto de backend para o PetCodes, desenvolvimento das habilidades de programação através de uma plataforma para Busca, Doação, e Adoção de Pets.
+Projeto para o PetCodes da Academia Dev de Joinville 2018 com o objetivo de desenvolver as habilidades de programação através de um projeto de WebApp para Busca, Doação, e Adoção de Pets.
 
 **Projetos Relacionados**
 
@@ -10,70 +10,12 @@ Projeto de backend para o PetCodes, desenvolvimento das habilidades de programa�
 
 ## Como começar
 
-Instruções para clonar e rodar o projeto em sua máquina para propósito de desenvolvimento e testes.
+As documentações do WebApp do projeto PetCodes do grupo BatataComBacon são:
+
+[Backend] (https://github.com/academiadev-jlle/wiki-batatacombacon/blob/master/Documentation/Backend.md)
+[Frontend] (https://github.com/academiadev-jlle/wiki-batatacombacon/blob/master/Documentation/Frontend.md)
 
 [//]: # ( These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.)
-
-**TODO**
-
-### Pré-requisitos
-
-Softwares que são pré-requisito para a utlização do projeto.
-
-[//]: # (What things you need to install the software and how to install them)
-
-```
-TODO
-```
-
-### Instalando
-
-Um guia passo a passo para fazer a instalação do projeto.
-
-[//]: # (A step by step series of examples that tell you how to get a development env running)
-
-```
-TODO
-```
-
-
-[//]: # (End with an example of getting some data out of the system or using it for a little demo)
-
-## Testando
-
-**TODO**
-
-[//]: # (Explain how to run the automated tests for this system)
-
-### Tipos de teste
-
-**TODO**
-
-[//]: # (Explain what these tests test and why)
-
-```
-**TODO**
-```
-
-### Outros testes de estilo de código
-
-[//]: # (Explain what these tests test and why)
-
-```
-TODO
-```
-
-## Implementação
-
-[//]: # ( Add additional notes about how to deploy this on a live system)
-
-## Softwares Utilizados
-
-**TODO**
-
-## Como contribuir
-
-**TODO**
 
 ## Versionamento
 
