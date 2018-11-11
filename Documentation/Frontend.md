@@ -72,6 +72,6 @@ TODO
 
 ## Softwares Utilizados
 
-Visual Code Studio
+- [Visual Studio Code](https://code.visualstudio.com) 
 
 > Written with [StackEdit](https://stackedit.io/).
