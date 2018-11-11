@@ -1,6 +1,6 @@
 # PetCodes - Wiki - BatataComBacon
 
-Projeto de backend para o PetCodes, desenvolvimento das habilidades de programação através de uma plataforma para Busca, Doação, e Adoção de Pets.
+Projeto para o PetCodes da Academia Dev de Joinville 2018 com o objetivo de desenvolver as habilidades de programação através de um projeto de WebApp para Busca, Doação, e Adoção de Pets.
 
 **Repositórios Relacionados**
 
@@ -10,72 +10,12 @@ Projeto de backend para o PetCodes, desenvolvimento das habilidades de programa�
 
 ## Como começar
 
-Instruções para clonar, construir e rodar o projeto em sua máquina. Seja para auxiliar no desenvolvimento ou para testes de funcionalidade.
+As documentações do WebApp do projeto PetCodes do grupo BatataComBacon são:
 
+[Backend](Documentation/Backend.md)
+[Frontend](Documentation/Frontend.md)
 
-### Pré-requisitos
-
-Softwares que são pré-requisito para a utlização do projeto:
-
-[//]: # (What things you need to install the software and how to install them)
-
-* Java 8
-
-### Instalando
-
-**Backend**
-```
-git clone https://github.com/academiadev-jlle/backend-batatacombacon.git
-cd backend-batatacombacon
-./gradlew build
-./gradlew bootrun
-```
-[Frontend]
-```
-TODO
-```
-
-
-## Testando
-
-***Seção em desenvolvimento***
-
-[//]: # (Explain how to run the automated tests for this system)
-
-### Tipos de teste
-
-**TODO**
-
-[//]: # (Explain what these tests test and why)
-
-```
-TODO
-```
-
-### Outros testes de estilo de código
-
-[//]: # (Explain what these tests test and why)
-
-```
-TODO
-```
-
-## Implementação
-
-**TODO**
-
-[//]: # (Notas adicionais sobre como fazer o Deploy em ambiente de produção)
-
-## Softwares Utilizados
-
- - [Eclipse](https://www.eclipse.org/)
- - [IntelliJ](https://www.jetbrains.com/idea/)
- - [Gradle](https://gradle.org/)
- - [Spring Boot](https://start.spring.io/)
- - [lombok](https://projectlombok.org/)
- - [Swagger](https://swagger.io/)
-
-
+[//]: # ( These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.)
 
 ## Como contribuir
 
@@ -98,6 +38,7 @@ TODO
 ## Licença
 
 Este projeto usa a licença Apache 2.0 - veja [LICENSE.md](LICENSE.md) para detalhes
+
 
 ## Reconhecimentos
 
