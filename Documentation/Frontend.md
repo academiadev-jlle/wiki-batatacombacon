@@ -22,6 +22,7 @@ Softwares que são pré-requisito para a utlização do projeto.
 - Git
 - [Node](https://github.com/nodejs/node): 8.12.0 ou acima
 - [Angular CLI](https://github.com/angular/angular-cli): 6.1.4
+- Editor de texto
 - Clone do [FrontendBatataComBacon repo](https://github.com/academiadev-jlle/frontend-batatacombacon) na máquina local 
 
 ### Instalando
@@ -71,9 +72,11 @@ TODO
 
 ## Softwares Utilizados
 
+Visual Code Studio
+
 **TODO**
 
-## Como contribuir
+[/## Como contribuir
 
 ### Fork o projeto
 1. [Fork o projeto com seu perfil do GitHub.](https://help.github.com/articles/fork-a-repo/)
@@ -95,36 +98,6 @@ Se possível, teste qualquer mudança visual em todas as últimas versões de br
 3. `git push my-fork-name branch-name` para dar push das alterações no seu próprio repositório no GitHub.
 4. Vá para FrontendBatataComBacon repo e veja sua branch no repositório.
 5. Siga as instruções do GitHub para enviar um pull request.
-6. Descreva as mudanças feitas na área de descrição no corpo do pull request. 
-
-## Versionamento
-
-**TODO**
-
-## Autores
-
-* **Allan Krueger** - SRE e Desenvolvedor Backend - [Klimber](https://github.com/klimber)
-* **Jim Chien** - Desenvolvedor Frontend - [JimChie](https://github.com/JimChie)
-* **Eber Rodrigues** - Desenvolvedor Backend - [eberjoe](https://github.com/eberjoe)
-* **Ruan Fachini** - Capitão e Desenvolvedor Backend - [RuanVFachini](https://github.com/RuanVFachini)
-* **Marco Antonio Yamada** - PO e Desenvolvedor Frontend - [marcoayamada](https://github.com/marcoayamada)
-
-## Licença
-
-Este projeto usa a licença Apache 2.0 - veja [LICENSE](LICENSE) para detalhes
-
-## Reconhecimentos
-
-* Dar um joinha para códigos "emprestados" na internet
-* Inspirações
-* etc
-
-## Apoiadores
-
-* ContaAzul
-* Becomex
-* Asaas
-* Treasy
-
+6. Descreva as mudanças feitas na área de descrição no corpo do pull request./] 
 
 > Written with [StackEdit](https://stackedit.io/).
