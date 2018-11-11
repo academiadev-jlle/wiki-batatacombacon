@@ -22,6 +22,7 @@ Softwares que são pré-requisito para a utlização do projeto.
 - Git
 - [Node](https://github.com/nodejs/node): 8.12.0 ou acima
 - [Angular CLI](https://github.com/angular/angular-cli): 6.1.4
+- Editor de texto
 - Clone do [FrontendBatataComBacon repo](https://github.com/academiadev-jlle/frontend-batatacombacon) na máquina local 
 
 ### Instalando
@@ -71,60 +72,6 @@ TODO
 
 ## Softwares Utilizados
 
-**TODO**
-
-## Como contribuir
-
-### Fork o projeto
-1. [Fork o projeto com seu perfil do GitHub.](https://help.github.com/articles/fork-a-repo/)
-2. [Clone o repositório](https://help.github.com/articles/cloning-a-repository/) na sua máquina local.
-3. `git pull origin master` assegurar que o código é o mais recente.
-4. `git checkout -b branch-name` (troque branch-name por um nome mais adequado) para criar uma branch.
-
-
-### Mudanças no projeto
-1. Siga as instruções do "Server de Desenvolvimento".
-2. Salve as modificações e veja no browser os resultados.
-
-### Teste a mudança
-Se possível, teste qualquer mudança visual em todas as últimas versões de browsers populares, em ambos desktop e mobile.
-
-### Push it
-1. `git add .` para adicionar mudanças no repositório.
-2. `git commit -m "My message"` (substitua My message com a mensagem de commit, como por exemplo "hotfix/navbar" ou em caso de adição de funcionalidade nova "feature/nome_da_funcionalidade) para commit das alterações.  
-3. `git push my-fork-name branch-name` para dar push das alterações no seu próprio repositório no GitHub.
-4. Vá para FrontendBatataComBacon repo e veja sua branch no repositório.
-5. Siga as instruções do GitHub para enviar um pull request.
-6. Descreva as mudanças feitas na área de descrição no corpo do pull request. 
-
-## Versionamento
-
-**TODO**
-
-## Autores
-
-* **Allan Krueger** - SRE e Desenvolvedor Backend - [Klimber](https://github.com/klimber)
-* **Jim Chien** - Desenvolvedor Frontend - [JimChie](https://github.com/JimChie)
-* **Eber Rodrigues** - Desenvolvedor Backend - [eberjoe](https://github.com/eberjoe)
-* **Ruan Fachini** - Capitão e Desenvolvedor Backend - [RuanVFachini](https://github.com/RuanVFachini)
-* **Marco Antonio Yamada** - PO e Desenvolvedor Frontend - [marcoayamada](https://github.com/marcoayamada)
-
-## Licença
-
-Este projeto usa a licença Apache 2.0 - veja [LICENSE](LICENSE) para detalhes
-
-## Reconhecimentos
-
-* Dar um joinha para códigos "emprestados" na internet
-* Inspirações
-* etc
-
-## Apoiadores
-
-* ContaAzul
-* Becomex
-* Asaas
-* Treasy
-
+- [Visual Studio Code](https://code.visualstudio.com) 
 
 > Written with [StackEdit](https://stackedit.io/).
