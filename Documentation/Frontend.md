@@ -74,30 +74,4 @@ TODO
 
 Visual Code Studio
 
-**TODO**
-
-[/## Como contribuir
-
-### Fork o projeto
-1. [Fork o projeto com seu perfil do GitHub.](https://help.github.com/articles/fork-a-repo/)
-2. [Clone o repositório](https://help.github.com/articles/cloning-a-repository/) na sua máquina local.
-3. `git pull origin master` assegurar que o código é o mais recente.
-4. `git checkout -b branch-name` (troque branch-name por um nome mais adequado) para criar uma branch.
-
-
-### Mudanças no projeto
-1. Siga as instruções do "Server de Desenvolvimento".
-2. Salve as modificações e veja no browser os resultados.
-
-### Teste a mudança
-Se possível, teste qualquer mudança visual em todas as últimas versões de browsers populares, em ambos desktop e mobile.
-
-### Push it
-1. `git add .` para adicionar mudanças no repositório.
-2. `git commit -m "My message"` (substitua My message com a mensagem de commit, como por exemplo "hotfix/navbar" ou em caso de adição de funcionalidade nova "feature/nome_da_funcionalidade) para commit das alterações.  
-3. `git push my-fork-name branch-name` para dar push das alterações no seu próprio repositório no GitHub.
-4. Vá para FrontendBatataComBacon repo e veja sua branch no repositório.
-5. Siga as instruções do GitHub para enviar um pull request.
-6. Descreva as mudanças feitas na área de descrição no corpo do pull request./] 
-
 > Written with [StackEdit](https://stackedit.io/).
