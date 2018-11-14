@@ -1,12 +1,11 @@
-# PetCodes - Wiki - BatataComBacon
+# PetCodes - Frontend - BatataComBacon
 
-Projeto de backend para o PetCodes, desenvolvimento das habilidades de programação através de uma plataforma para Busca, Doação, e Adoção de Pets.
+Projeto para o PetCodes da Academia Dev de Joinville 2018 com o objetivo de desenvolver as habilidades de programação através de um projeto de WebApp para Busca, Doação, e Adoção de Pets.
 
-**Projetos Relacionados**
+**Repositório**
 
-[BatataComBacon - Backend](https://github.com/academiadev-jlle/backend-batatacombacon)
+O repositório contendo o código fonte do [FrontendBatataComBacon](https://frontendcombacon.herokuapp.com) está no [BatataComBacon - Frontend](https://github.com/academiadev-jlle/frontend-batatacombacon). O site foi construído no Heroku.
 
-[BatataComBacon - Frontend](https://github.com/academiadev-jlle/frontend-batatacombacon)
 
 ## Como começar
 
@@ -14,17 +13,17 @@ Instruções para clonar e rodar o projeto em sua máquina para propósito de de
 
 [//]: # ( These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.)
 
-**TODO**
-
 ### Pré-requisitos
 
 Softwares que são pré-requisito para a utlização do projeto.
 
 [//]: # (What things you need to install the software and how to install them)
 
-```
-TODO
-```
+- Git
+- [Node](https://github.com/nodejs/node): 8.12.0 ou acima
+- [Angular CLI](https://github.com/angular/angular-cli): 6.1.4
+- Editor de texto
+- Clone do [FrontendBatataComBacon repo](https://github.com/academiadev-jlle/frontend-batatacombacon) na máquina local 
 
 ### Instalando
 
@@ -32,12 +31,16 @@ Um guia passo a passo para fazer a instalação do projeto.
 
 [//]: # (A step by step series of examples that tell you how to get a development env running)
 
-```
-TODO
-```
+1. `cd frontend-batatacombacon` para acessar a raiz do projeto clonado.
+2. `npm install` para instalar as dependências do projeto.
 
 
 [//]: # (End with an example of getting some data out of the system or using it for a little demo)
+
+### Server de Desenvolvimento
+
+1. `ng serve` para iniciar um server de desenvolvimento.
+2. `http://localhost:4200` para acessar site no browser. O site atualiza automaticamente caso ocorra alguma alteração no código. 
 
 ## Testando
 
@@ -69,40 +72,6 @@ TODO
 
 ## Softwares Utilizados
 
-**TODO**
-
-## Como contribuir
-
-**TODO**
-
-## Versionamento
-
-**TODO**
-
-## Autores
-
-* **Allan Krueger** - SRE e Desenvolvedor Backend - [Klimber](https://github.com/klimber)
-* **Jim Chien** - Desenvolvedor Frontend - [JimChie](https://github.com/JimChie)
-* **Eber Rodrigues** - Desenvolvedor Backend - [eberjoe](https://github.com/eberjoe)
-* **Ruan Fachini** - Capitão e Desenvolvedor Backend - [RuanVFachini](https://github.com/RuanVFachini)
-* **Marco Antonio Yamada** - PO e Desenvolvedor Frontend - [marcoayamada](https://github.com/marcoayamada)
-
-## Licença
-
-Este projeto usa a licença Apache 2.0 - veja [LICENSE](LICENSE) para detalhes
-
-## Reconhecimentos
-
-* Dar um joinha para códigos "emprestados" na internet
-* Inspirações
-* etc
-
-## Apoiadores
-
-* ContaAzul
-* Becomex
-* Asaas
-* Treasy
-
+- [Visual Studio Code](https://code.visualstudio.com) 
 
 > Written with [StackEdit](https://stackedit.io/).
