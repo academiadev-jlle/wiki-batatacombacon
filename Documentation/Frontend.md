@@ -44,31 +44,13 @@ Um guia passo a passo para fazer a instalação do projeto.
 
 ## Testando
 
-**TODO**
+Os testes unitários foram realizados apenas nos formulários.
 
-[//]: # (Explain how to run the automated tests for this system)
+### Testes Unitários
 
-### Tipos de teste
+1.`ng test` para iniciar os testes unitários.
+2. Automaticamente abre no browser o site que apresentar o report dos testes.
 
-**TODO**
-
-[//]: # (Explain what these tests test and why)
-
-```
-**TODO**
-```
-
-### Outros testes de estilo de código
-
-[//]: # (Explain what these tests test and why)
-
-```
-TODO
-```
-
-## Implementação
-
-[//]: # ( Add additional notes about how to deploy this on a live system)
 
 ## Softwares Utilizados
 
