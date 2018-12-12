@@ -22,12 +22,6 @@ As documentações do WebApp do projeto PetCodes do grupo BatataComBacon são:
 
 Como o desenvolvimento deste site é o objetivo da AcademiaDev joinville, no momento a participação é restrita aos membros do Squad **BatataComBacon**
 
-## Versionamento
-
-```
-TODO
-```
-
 ## Autores
 
 * **Allan Krueger** - SRE e Desenvolvedor Backend - [Klimber](https://github.com/klimber)
